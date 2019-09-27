@@ -13,9 +13,8 @@ It has 3 main screens
 3. User Profile (When you login using user credentaials)
 
 Credentials for the Users are 
----------------------------------------
-|Role     | Admin | User      |  User |
----------------------------------------
-|UserName | admin | shivendra |  jack |
-|Password | admin | singh     |  user |
----------------------------------------
+
+
+Role - admin (USERNAME - admin, PASSWORD - admin)
+Role -  user(USERNAME - shivendra, PASSWORD - singh)
+Role -  user(USERNAME - jack, PASSWORD - user)
