@@ -15,6 +15,6 @@ It has 3 main screens
 Credentials for the Users are 
 
 
-Role - admin (USERNAME - admin, PASSWORD - admin)
-Role -  user(USERNAME - shivendra, PASSWORD - singh)
-Role -  user(USERNAME - jack, PASSWORD - user)
+* Role - admin (USERNAME - admin, PASSWORD - admin)
+* Role -  user(USERNAME - shivendra, PASSWORD - singh)
+* Role -  user(USERNAME - jack, PASSWORD - user)
